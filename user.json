@@ -1,0 +1,29 @@
+[
+  {
+    "id": "7",
+    "Name": "anuj",
+    "BasicSalary": 44000,
+    "Salary": "50000",
+    "Type": "Admin",
+    "profilePic": "img1",
+    "gender": "Male",
+    "startDay": "Day",
+    "startMonth": "Month",
+    "startYear": "2025",
+    "notes": "Year"
+  },
+  {
+    "id": "2",
+    "Name": "minesh",
+    "Type": "Admin",
+    "BasicSalary": "50000",
+    "Salary": "30000",
+    "profilePic": "img3",
+    "gender": "Female",
+    "startDay": "Day",
+    "startMonth": "Month",
+    "startYear": "Year",
+    "notes": "good girl",
+    "Department": "HR"
+  }
+]

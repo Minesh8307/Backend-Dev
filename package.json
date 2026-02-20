@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AnujChaudhary5911/Backend-Div#readme",
+  "bugs": {
+    "url": "https://github.com/AnujChaudhary5911/Backend-Div/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnujChaudhary5911/Backend-Div.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.13",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
